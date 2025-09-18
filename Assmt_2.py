@@ -1,7 +1,7 @@
 from googleapiclient.discovery import build
-
+from bs4 import BeautifulSoup as bs
 f_API = open("./Cred/API_Key.txt")
-def main():
+def catch(Username):
     api_service_name = "youtube"
     api_version = "v3"
     
@@ -14,10 +14,9 @@ def main():
     # Make a request to get channel details
     request = youtube.channels().list(
         part="snippet,contentDetails,statistics",
-        forUsername="GoogleDevelopers"
+        forUsername=Username
     )
     response = request.execute()
-
     print(response)
 
 if __name__ == "__main__":
