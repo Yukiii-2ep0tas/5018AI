@@ -1,0 +1,43 @@
+{
+    "kind": "youtube#channelListResponse",
+    "etag": "Q7oL4GuTAUwTsoEeLbFGWypUjiA",
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 5
+    },
+    "items": [
+        {
+            "kind": "youtube#channel",
+            "etag": "oWjhqEVqlylbrBwxGGy6gdg9jEs",
+            "id": "UCw7SNYrYei7F5ttQO3o-rpA",
+            "snippet": {
+                "title": "Disney Channel Animation",
+                "description": "Welcome to Disney Channel Animation \u2013 your home for bold characters, big laughs, and the most animated adventures around! From the inventions of Phineas and Ferb to the everyday chaos of Big City Greens, the wild adventures of StuGo, the heartfelt moments of Kiff and beyond,  this is your animated escape into worlds where anything can happen (and probably will)!\n \nExpect new episodes, clips, songs, and surprises every week \u2013 all from the shows you love and the ones you\u2019re about to discover!\n\nKeep up with our new videos here: https://www.youtube.com/playlist?list=PLiv1IUQDVSNKSwiTLE-l6pwhnu75gRIfH\n",
+                "customUrl": "@disneychannelanimation",
+                "publishedAt": "2006-02-19T21:04:08Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/_WcHGpEZpyOHL0SmNWyFyLe28xbIZ5W0-aOUKwcOTjJDsVThLsFQU2vMRIvZNpqWHganABXR=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/_WcHGpEZpyOHL0SmNWyFyLe28xbIZ5W0-aOUKwcOTjJDsVThLsFQU2vMRIvZNpqWHganABXR=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/_WcHGpEZpyOHL0SmNWyFyLe28xbIZ5W0-aOUKwcOTjJDsVThLsFQU2vMRIvZNpqWHganABXR=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "Disney Channel Animation",
+                    "description": "Welcome to Disney Channel Animation \u2013 your home for bold characters, big laughs, and the most animated adventures around! From the inventions of Phineas and Ferb to the everyday chaos of Big City Greens, the wild adventures of StuGo, the heartfelt moments of Kiff and beyond,  this is your animated escape into worlds where anything can happen (and probably will)!\n \nExpect new episodes, clips, songs, and surprises every week \u2013 all from the shows you love and the ones you\u2019re about to discover!\n\nKeep up with our new videos here: https://www.youtube.com/playlist?list=PLiv1IUQDVSNKSwiTLE-l6pwhnu75gRIfH\n"
+                },
+                "country": "US"
+            }
+        }
+    ]
+}

@@ -1,23 +1,24 @@
 from googleapiclient.discovery import build
+import json
 
 f_API = open("./Cred/API_Key.txt")
 
-def catch(Username):
+def catch_snippet(Username):
     api_service_name = "youtube"
     api_version = "v3"
 
     api_key = f_API.readlines()
 
-    # Build the YouTube service using API key
     youtube = build(api_service_name, api_version, developerKey=api_key)
 
-    # Make a request to get channel details
     request = youtube.channels().list(
-        part="snippet,contentDetails,statistics",
-        forUsername=Username
+        part="snippet",
+        id = "UCw7SNYrYei7F5ttQO3o-rpA"
     )
     response = request.execute()
-    print(response)
+
+    with open(f"./Saves/{Username}_snippet.json","w",encoding="utf-8") as f:
+        json.dump(response,f,indent=4)
 
 if __name__ == "__main__":
-    catch("GoogleDevelopers")
+    catch_snippet("disneychannelanimation")
