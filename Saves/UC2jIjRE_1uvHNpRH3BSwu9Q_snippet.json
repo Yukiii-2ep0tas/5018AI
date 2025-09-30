@@ -1,0 +1,421 @@
+{
+    "kind": "youtube#playlistListResponse",
+    "etag": "V46gHagsjbmNsGzPzI5FcB1CSGA",
+    "pageInfo": {
+        "totalResults": 8,
+        "resultsPerPage": 10
+    },
+    "items": [
+        {
+            "kind": "youtube#playlist",
+            "etag": "tQCwQi2r9dkOaEqIwu3I4inZXAw",
+            "id": "PLmV2R7bz8LtPrliSZAcT7gsdeTApxc2aS",
+            "snippet": {
+                "publishedAt": "2024-05-16T03:45:07.329426Z",
+                "channelId": "UC2jIjRE_1uvHNpRH3BSwu9Q",
+                "title": "Asian Thought Leader Series",
+                "description": "The Asia Thought Leader Series, an exclusive initiative by the CUHK MBA Programmes, standing as the first MBA programme in Asia. This groundbreaking series brings together our prestigious alumni who are spearheading the business future of the Asian Century. They will share their unparalleled insights and doctrines on managing conglomerates, leading business giants, and revitalising renowned brands.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ebq5Ygw6tyg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ebq5Ygw6tyg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ebq5Ygw6tyg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Ebq5Ygw6tyg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "CUHK MBA",
+                "localized": {
+                    "title": "Asian Thought Leader Series",
+                    "description": "The Asia Thought Leader Series, an exclusive initiative by the CUHK MBA Programmes, standing as the first MBA programme in Asia. This groundbreaking series brings together our prestigious alumni who are spearheading the business future of the Asian Century. They will share their unparalleled insights and doctrines on managing conglomerates, leading business giants, and revitalising renowned brands."
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 2
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLmV2R7bz8LtPrliSZAcT7gsdeTApxc2aS\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "6aP5vhU9UZ5QUyHN8AKl-HmTagE",
+            "id": "PLmV2R7bz8LtME5I8FX3TOUYeyil5NNJ-y",
+            "snippet": {
+                "publishedAt": "2022-12-14T02:34:22.611593Z",
+                "channelId": "UC2jIjRE_1uvHNpRH3BSwu9Q",
+                "title": "2023 Intake",
+                "description": "The CUHK MBA Experience Day was successfully held on 3 Dec 2022 with aspiring young professionals joining the occasion on campus and online. It was a great time mingling and networking.\n\nThe Experience Day has shown multiple perspectives of our MBA programme with rich content. A brief overview and study experience were presented to MBA aspirants in a session by Prof Wan and some students and alumni. Followed by a communication workshop led by Prof Tina Choi, we are glad to see many prospects engaged in the activity. Prof Ling Cen wrapped the event with an insightful finance masterclass taster.\n\nDon't miss the chance to join our elite community!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vfWcOAhGhYY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vfWcOAhGhYY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vfWcOAhGhYY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/vfWcOAhGhYY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/vfWcOAhGhYY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "CUHK MBA",
+                "localized": {
+                    "title": "2023 Intake",
+                    "description": "The CUHK MBA Experience Day was successfully held on 3 Dec 2022 with aspiring young professionals joining the occasion on campus and online. It was a great time mingling and networking.\n\nThe Experience Day has shown multiple perspectives of our MBA programme with rich content. A brief overview and study experience were presented to MBA aspirants in a session by Prof Wan and some students and alumni. Followed by a communication workshop led by Prof Tina Choi, we are glad to see many prospects engaged in the activity. Prof Ling Cen wrapped the event with an insightful finance masterclass taster.\n\nDon't miss the chance to join our elite community!"
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 3
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLmV2R7bz8LtME5I8FX3TOUYeyil5NNJ-y\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "PGZPrRjJcEyyEWONuR_tmNW_xlo",
+            "id": "PLmV2R7bz8LtO722aheIFcODXJacGaTsg5",
+            "snippet": {
+                "publishedAt": "2021-03-22T04:27:50.537962Z",
+                "channelId": "UC2jIjRE_1uvHNpRH3BSwu9Q",
+                "title": "2021 Videos",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9weRD7U3RQw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9weRD7U3RQw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9weRD7U3RQw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9weRD7U3RQw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/9weRD7U3RQw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "CUHK MBA",
+                "localized": {
+                    "title": "2021 Videos",
+                    "description": ""
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 3
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLmV2R7bz8LtO722aheIFcODXJacGaTsg5\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "wH_E22ZQcYfrvQT0uaFhSa6jFaU",
+            "id": "PLmV2R7bz8LtNRQl8_SHwT6zYoUfTmawfj",
+            "snippet": {
+                "publishedAt": "2021-03-08T09:21:22.195563Z",
+                "channelId": "UC2jIjRE_1uvHNpRH3BSwu9Q",
+                "title": "CUHK MBA Alumni",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Su7VlFnDybQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Su7VlFnDybQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Su7VlFnDybQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Su7VlFnDybQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Su7VlFnDybQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "CUHK MBA",
+                "localized": {
+                    "title": "CUHK MBA Alumni",
+                    "description": ""
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 7
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLmV2R7bz8LtNRQl8_SHwT6zYoUfTmawfj\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "6M64HB-MwUys5qe7toN679PTlGI",
+            "id": "PLmV2R7bz8LtOh7SyaKnOCNnMi57ztOP7v",
+            "snippet": {
+                "publishedAt": "2019-10-24T03:18:14.691174Z",
+                "channelId": "UC2jIjRE_1uvHNpRH3BSwu9Q",
+                "title": "CUHK MBA Professor Series",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/g9b4lFf6X_4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/g9b4lFf6X_4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/g9b4lFf6X_4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/g9b4lFf6X_4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/g9b4lFf6X_4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "CUHK MBA",
+                "localized": {
+                    "title": "CUHK MBA Professor Series",
+                    "description": ""
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 11
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLmV2R7bz8LtOh7SyaKnOCNnMi57ztOP7v\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "uxqfbpQ8yOIst2qyOCI4XmS4nGs",
+            "id": "PLmV2R7bz8LtPXjCsp2HN5NOroQwz43qs9",
+            "snippet": {
+                "publishedAt": "2019-01-08T10:03:38.898391Z",
+                "channelId": "UC2jIjRE_1uvHNpRH3BSwu9Q",
+                "title": "CUHK MBA Programme Highlights",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CNQZwm4X9Ek/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CNQZwm4X9Ek/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CNQZwm4X9Ek/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/CNQZwm4X9Ek/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/CNQZwm4X9Ek/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "CUHK MBA",
+                "localized": {
+                    "title": "CUHK MBA Programme Highlights",
+                    "description": ""
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 7
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLmV2R7bz8LtPXjCsp2HN5NOroQwz43qs9\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "Vy3bPsw_7Yn6rhQJTj7UvRLpnm8",
+            "id": "PLmV2R7bz8LtNmOi7E-nVLYJJiBRztesds",
+            "snippet": {
+                "publishedAt": "2018-01-22T03:06:34.218954Z",
+                "channelId": "UC2jIjRE_1uvHNpRH3BSwu9Q",
+                "title": "MBA Moments",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FuwkXvVPxLo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FuwkXvVPxLo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FuwkXvVPxLo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/FuwkXvVPxLo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/FuwkXvVPxLo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "CUHK MBA",
+                "localized": {
+                    "title": "MBA Moments",
+                    "description": ""
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 15
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLmV2R7bz8LtNmOi7E-nVLYJJiBRztesds\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "23hTYT9gZkJOzvFuJ9qK_nuGVJ8",
+            "id": "PLmV2R7bz8LtN5WnHX-eQYN5MukYTEGP-z",
+            "snippet": {
+                "publishedAt": "2012-12-19T04:29:52.297059Z",
+                "channelId": "UC2jIjRE_1uvHNpRH3BSwu9Q",
+                "title": "CUHK MBA Students' Stories",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/M77t8Mq1WuA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/M77t8Mq1WuA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/M77t8Mq1WuA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/M77t8Mq1WuA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/M77t8Mq1WuA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "CUHK MBA",
+                "localized": {
+                    "title": "CUHK MBA Students' Stories",
+                    "description": ""
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 43
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLmV2R7bz8LtN5WnHX-eQYN5MukYTEGP-z\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        }
+    ]
+}

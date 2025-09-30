@@ -1,5 +1,6 @@
 from googleapiclient.discovery import build
 import json
+import re
 
 f_API = open("./Cred/API_Key.txt")
 
@@ -29,7 +30,21 @@ def get_description(json_filename):
         print(description["items"][0]['snippet']['description'])
     return 0
 
-def catch_playlist_data(channel_id,playlist_id):
+def get_playlist_detail(json_filename,if_detailed):
+    with open(f"./Saves/{json_filename}") as f:
+        playlists = json.load(f)
+        playlist_amount = playlists['pageInfo']["totalResults"]
+        print(f"Total amount of playlists is :{playlist_amount}")
+        if if_detailed:
+            ordinal = 1
+            for item in playlists['items']:
+                create_date = re.match(r'^(.*?)T', item['snippet']['publishedAt']).group(1)
+                playlist_name = item['snippet']['title']
+                print(f'{ordinal}.Playlist Name is {playlist_name} and was created at {create_date}')
+                ordinal += 1
+    return 0
+
+def catch_playlist_data(channel_id):
     api_service_name = "youtube"
     api_version = "v3"
 
@@ -38,13 +53,16 @@ def catch_playlist_data(channel_id,playlist_id):
     youtube = build(api_service_name, api_version, developerKey=api_key)
 
     request = youtube.playlists().list(
-        channelID = channel_id,
-        playlistID = playlist_id,
-        part = "snippet,contentDetails"
+        part="contentDetails,player,snippet,status",
+        channelId=channel_id,
+        maxResults=10
     )
-
-    respons = request.execute()
+    response = request.execute()
+    with open(f"./Saves/{channel_id}_snippet.json","w",encoding="utf-8") as f:
+        json.dump(response,f,indent=4)
 
 if __name__ == "__main__":
-    get_description("Disney Channel Animation_snippet.json")
-    catch_playlist_data("UCsT0YIqwnpJCM-mx7-gSA4Q")
+    # get_description("Disney Channel Animation_snippet.json")
+    # catch_playlist_data(channel_id="UCsT0YIqwnpJCM-mx7-gSA4Q") #catch TS'channel
+    # catch_playlist_data(channel_id="UC2jIjRE_1uvHNpRH3BSwu9Q") #catch CUHK MBA Channel
+    get_playlist_detail(json_filename='UC2jIjRE_1uvHNpRH3BSwu9Q_snippet.json',if_detailed=1)

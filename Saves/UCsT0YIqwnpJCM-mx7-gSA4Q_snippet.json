@@ -1,0 +1,271 @@
+{
+    "kind": "youtube#playlistListResponse",
+    "etag": "LDC_UvkYR9Qr608jPDJZrlHsD-Y",
+    "nextPageToken": "CAUQAA",
+    "pageInfo": {
+        "totalResults": 17642,
+        "resultsPerPage": 5
+    },
+    "items": [
+        {
+            "kind": "youtube#playlist",
+            "etag": "EDPSRNpObF2oB5yk1Za0-jwHkx8",
+            "id": "PLsRNoUx8w3rO5MO7Xx1Os_AuchNliGeEN",
+            "snippet": {
+                "publishedAt": "2025-08-19T20:30:35.833503Z",
+                "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+                "title": "TEDx talks in Czech",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Xywu90WtU9A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Xywu90WtU9A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Xywu90WtU9A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Xywu90WtU9A/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Xywu90WtU9A/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "TEDx Talks",
+                "localized": {
+                    "title": "TEDx talks in Czech",
+                    "description": ""
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 445
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLsRNoUx8w3rO5MO7Xx1Os_AuchNliGeEN\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "cdaejGO3FM96v5yO4AxqtdwfkUc",
+            "id": "PLsRNoUx8w3rPVdQVzisew0Xr9Ok8Un70B",
+            "snippet": {
+                "publishedAt": "2025-08-19T20:17:29.21229Z",
+                "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+                "title": "TEDx talks in Bulgarian",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HN30fO2I2aU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HN30fO2I2aU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HN30fO2I2aU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/HN30fO2I2aU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/HN30fO2I2aU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "TEDx Talks",
+                "localized": {
+                    "title": "TEDx talks in Bulgarian",
+                    "description": ""
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 448
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLsRNoUx8w3rPVdQVzisew0Xr9Ok8Un70B\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "4KoxnKUSZAeXLt457k3oVW06XI8",
+            "id": "PLsRNoUx8w3rPyAhNpxG0E_hdkBRbKSO5M",
+            "snippet": {
+                "publishedAt": "2025-08-19T20:09:39.13805Z",
+                "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+                "title": "TEDx talks in Vietnamese",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zyXvGcUnXls/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zyXvGcUnXls/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zyXvGcUnXls/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/zyXvGcUnXls/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/zyXvGcUnXls/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "TEDx Talks",
+                "localized": {
+                    "title": "TEDx talks in Vietnamese",
+                    "description": ""
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 244
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLsRNoUx8w3rPyAhNpxG0E_hdkBRbKSO5M\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "HXkWRUn9bqebfhOt1bZpC62GG9w",
+            "id": "PLsRNoUx8w3rMyjdlw6lm3gcPJJ1-yLf_G",
+            "snippet": {
+                "publishedAt": "2025-06-03T16:19:19.480133Z",
+                "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+                "title": "100 must-watch TEDx talks",
+                "description": "How can I cope with anxiety? Is there a secret to living a happier life? Why am I so obsessed with certain songs? What parenting advice is actually worthwhile? Is the guy in all those memes a real person? And what is\u2026fish sex? \n\nAre you stuck in a curiosity spiral? We\u2019ve got you. \ud83d\ude80\n\nBinge 100 of the most unforgettable ideas in the TEDx catalogue, covering everything from the big existential questions that keep you up at night to the oddly specific Wikipedia rabbit holes you find yourself in on a Tuesday.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KTejqeu00G0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KTejqeu00G0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KTejqeu00G0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/KTejqeu00G0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/KTejqeu00G0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "TEDx Talks",
+                "localized": {
+                    "title": "100 must-watch TEDx talks",
+                    "description": "How can I cope with anxiety? Is there a secret to living a happier life? Why am I so obsessed with certain songs? What parenting advice is actually worthwhile? Is the guy in all those memes a real person? And what is\u2026fish sex? \n\nAre you stuck in a curiosity spiral? We\u2019ve got you. \ud83d\ude80\n\nBinge 100 of the most unforgettable ideas in the TEDx catalogue, covering everything from the big existential questions that keep you up at night to the oddly specific Wikipedia rabbit holes you find yourself in on a Tuesday."
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 100
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLsRNoUx8w3rMyjdlw6lm3gcPJJ1-yLf_G\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "jpQPpUzgRr6KjmZ6Y3bFUTMVQaY",
+            "id": "PLsRNoUx8w3rNWF5PQUE0YMAV_ooDgkpdh",
+            "snippet": {
+                "publishedAt": "2025-03-28T14:22:20.178162Z",
+                "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+                "title": "MY BIG IDEA | THE FULL TALKS FROM TED AND TEDXBRIGHTON\u2019S DECEMBER 2024 IDEA SEARCH",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iz1EgI5LovQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iz1EgI5LovQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iz1EgI5LovQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/iz1EgI5LovQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/iz1EgI5LovQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "TEDx Talks",
+                "localized": {
+                    "title": "MY BIG IDEA | THE FULL TALKS FROM TED AND TEDXBRIGHTON\u2019S DECEMBER 2024 IDEA SEARCH",
+                    "description": ""
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 10
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLsRNoUx8w3rNWF5PQUE0YMAV_ooDgkpdh\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        }
+    ]
+}
