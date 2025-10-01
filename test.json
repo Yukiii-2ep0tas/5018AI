@@ -1,0 +1,62 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "gRXGLfmTPW9AQbgBg3BWvtdjPeY",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "b9i0eCQ9vBcaOCDis6jyqPqjhgo",
+            "id": "DQacCB9tDaw",
+            "snippet": {
+                "publishedAt": "2024-05-13T17:45:43Z",
+                "channelId": "UCXZCJLdBC09xxGZ6gcdrc6A",
+                "title": "Introducing GPT-4o",
+                "description": "OpenAI Spring Update \u2013 streamed live on Monday, May 13, 2024. \n\nIntroducing GPT-4o, updates to ChatGPT, and more.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DQacCB9tDaw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DQacCB9tDaw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DQacCB9tDaw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/DQacCB9tDaw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/DQacCB9tDaw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "OpenAI",
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Introducing GPT-4o",
+                    "description": "OpenAI Spring Update \u2013 streamed live on Monday, May 13, 2024. \n\nIntroducing GPT-4o, updates to ChatGPT, and more."
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "4897799",
+                "likeCount": "123095",
+                "favoriteCount": "0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}
