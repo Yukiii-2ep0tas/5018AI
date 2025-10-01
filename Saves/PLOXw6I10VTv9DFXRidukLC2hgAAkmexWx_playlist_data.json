@@ -1,0 +1,1940 @@
+[
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "YuDTN8gvmlFASLCUD2HmVfvrPJ0",
+        "id": "UExPWHc2STEwVlR2OURGWFJpZHVrTEMyaGdBQWttZXhXeC5DRUQwODMxQzUyRTlGRkY3",
+        "snippet": {
+            "publishedAt": "2024-05-13T18:13:30Z",
+            "channelId": "UCXZCJLdBC09xxGZ6gcdrc6A",
+            "title": "Introducing GPT-4o",
+            "description": "OpenAI Spring Update \u2013 streamed live on Monday, May 13, 2024. \n\nIntroducing GPT-4o, updates to ChatGPT, and more.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/DQacCB9tDaw/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/DQacCB9tDaw/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/DQacCB9tDaw/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/DQacCB9tDaw/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/DQacCB9tDaw/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OpenAI",
+            "playlistId": "PLOXw6I10VTv9DFXRidukLC2hgAAkmexWx",
+            "position": 0,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "DQacCB9tDaw"
+            },
+            "videoOwnerChannelTitle": "OpenAI",
+            "videoOwnerChannelId": "UCXZCJLdBC09xxGZ6gcdrc6A"
+        },
+        "contentDetails": {
+            "videoId": "DQacCB9tDaw",
+            "videoPublishedAt": "2024-05-13T17:45:43Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "4d1qfwMxk9kYw9RqAO1g5u25Jt8",
+        "id": "UExPWHc2STEwVlR2OURGWFJpZHVrTEMyaGdBQWttZXhXeC5GNDg1Njc1QzZERjlFRjE5",
+        "snippet": {
+            "publishedAt": "2023-03-14T22:39:48Z",
+            "channelId": "UCXZCJLdBC09xxGZ6gcdrc6A",
+            "title": "GPT-4 Developer Livestream",
+            "description": "Join Greg Brockman, President and Co-Founder of OpenAI, at 1 pm PT for a developer demo showcasing GPT-4 and some of its capabilities/limitations.\n\nJoin the conversation on Discord here: discord.gg/openai. We'll be taking audience input from #gpt4-demo-suggestions.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/outcGtbnMuQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/outcGtbnMuQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/outcGtbnMuQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/outcGtbnMuQ/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/outcGtbnMuQ/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OpenAI",
+            "playlistId": "PLOXw6I10VTv9DFXRidukLC2hgAAkmexWx",
+            "position": 1,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "outcGtbnMuQ"
+            },
+            "videoOwnerChannelTitle": "OpenAI",
+            "videoOwnerChannelId": "UCXZCJLdBC09xxGZ6gcdrc6A"
+        },
+        "contentDetails": {
+            "videoId": "outcGtbnMuQ",
+            "videoPublishedAt": "2023-03-14T20:32:41Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "Q69OtmNMwIfOnRVOUbJACV0kUIk",
+        "id": "UExPWHc2STEwVlR2OURGWFJpZHVrTEMyaGdBQWttZXhXeC45NkVENTkxRDdCQUFBMDY4",
+        "snippet": {
+            "publishedAt": "2023-11-07T18:20:05Z",
+            "channelId": "UCXZCJLdBC09xxGZ6gcdrc6A",
+            "title": "OpenAI DevDay: Opening Keynote",
+            "description": "Join us for the opening keynote from OpenAI DevDay \u2014 OpenAI\u2019s first developer conference.\n\nWe\u2019re gathering developers from around the world for an in-person day of programming to learn about the latest AI advancements and explore what lies ahead.\n\nNew models and developer products announced at DevDay: https://openai.com/blog/new-models-and-developer-products-announced-at-devday\n\nIntroducing GPTs: https://openai.com/blog/introducing-gpts",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/U9mJuUkhUzk/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/U9mJuUkhUzk/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/U9mJuUkhUzk/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/U9mJuUkhUzk/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/U9mJuUkhUzk/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OpenAI",
+            "playlistId": "PLOXw6I10VTv9DFXRidukLC2hgAAkmexWx",
+            "position": 2,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "U9mJuUkhUzk"
+            },
+            "videoOwnerChannelTitle": "OpenAI",
+            "videoOwnerChannelId": "UCXZCJLdBC09xxGZ6gcdrc6A"
+        },
+        "contentDetails": {
+            "videoId": "U9mJuUkhUzk",
+            "videoPublishedAt": "2023-11-06T18:50:05Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "HIJHKzSowZhp99O7_7EbioVLHeU",
+        "id": "UExPWHc2STEwVlR2OURGWFJpZHVrTEMyaGdBQWttZXhXeC4xOTEzQzhBQzU3MDNDNjcz",
+        "snippet": {
+            "publishedAt": "2021-08-10T19:58:34Z",
+            "channelId": "UCXZCJLdBC09xxGZ6gcdrc6A",
+            "title": "OpenAI Codex Live Demo",
+            "description": "OpenAI Codex is an AI that translates natural language to code.\n\n0:00 - Introduction\n2:48 - Hello World\n13:08 - Building a game\n25:15 - Codex plugin for Microsoft Word\n\nLearn more: https://openai.com/blog/openai-codex",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/SGUCcjHTmGY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/SGUCcjHTmGY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/SGUCcjHTmGY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/SGUCcjHTmGY/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/SGUCcjHTmGY/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OpenAI",
+            "playlistId": "PLOXw6I10VTv9DFXRidukLC2hgAAkmexWx",
+            "position": 3,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "SGUCcjHTmGY"
+            },
+            "videoOwnerChannelTitle": "OpenAI",
+            "videoOwnerChannelId": "UCXZCJLdBC09xxGZ6gcdrc6A"
+        },
+        "contentDetails": {
+            "videoId": "SGUCcjHTmGY",
+            "videoPublishedAt": "2021-08-10T19:58:07Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "12GEmQhOhPmX7l7NwqQxuvb2y34",
+        "id": "UExPWHc2STEwVlR2OURGWFJpZHVrTEMyaGdBQWttZXhXeC5DNkMwRUI2MkI4QkI4NDFG",
+        "snippet": {
+            "publishedAt": "2023-12-05T06:10:17Z",
+            "channelId": "UCXZCJLdBC09xxGZ6gcdrc6A",
+            "title": "OpenAI DevDay: Keynote Recap",
+            "description": "We gathered developers from around the world for an in-person day of programming to learn about the latest AI advancements and explore what lies ahead. \n\nFull Keynote: https://youtube.com/live/U9mJuUkhUzk\n\nBreakout Sessions: https://www.youtube.com/playlist?list=PLOXw6I10VTv-exVCRuRjbT6bqkfO74rWz\n\nNew models and developer products announced at DevDay: https://openai.com/blog/new-models-and-developer-products-announced-at-devday\n\nIntroducing GPTs: https://openai.com/blog/introducing-gpts",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/h02ti0Bl6zk/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/h02ti0Bl6zk/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/h02ti0Bl6zk/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/h02ti0Bl6zk/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/h02ti0Bl6zk/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OpenAI",
+            "playlistId": "PLOXw6I10VTv9DFXRidukLC2hgAAkmexWx",
+            "position": 4,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "h02ti0Bl6zk"
+            },
+            "videoOwnerChannelTitle": "OpenAI",
+            "videoOwnerChannelId": "UCXZCJLdBC09xxGZ6gcdrc6A"
+        },
+        "contentDetails": {
+            "videoId": "h02ti0Bl6zk",
+            "videoPublishedAt": "2023-12-05T06:21:47Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "Vk6aAnDkEBQhyDpUp6YtNffSMsM",
+        "id": "UExPWHc2STEwVlR2OURGWFJpZHVrTEMyaGdBQWttZXhXeC4wMTcyMDhGQUE4NTIzM0Y5",
+        "snippet": {
+            "publishedAt": "2020-07-02T17:35:27Z",
+            "channelId": "UCXZCJLdBC09xxGZ6gcdrc6A",
+            "title": "OpenAI Spinning Up in Deep RL Workshop",
+            "description": "Opening & Intro to RL, Part 1, by Joshua Achiam at 25:11\nIntro to RL, Part 2, by Joshua Achiam at 1:48:42\nLearning Dexterity, by Matthias Plappert at 2:26:26\nAI Safety: An Introduction, by Dario Amodei at 2:58:00\n\nRecorded on Feburary 2, 2019.\n\nLearn more: https://openai.com/blog/spinning-up-in-deep-rl-workshop-review/",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/fdY7dt3ijgY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/fdY7dt3ijgY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/fdY7dt3ijgY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/fdY7dt3ijgY/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/fdY7dt3ijgY/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OpenAI",
+            "playlistId": "PLOXw6I10VTv9DFXRidukLC2hgAAkmexWx",
+            "position": 5,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "fdY7dt3ijgY"
+            },
+            "videoOwnerChannelTitle": "OpenAI",
+            "videoOwnerChannelId": "UCXZCJLdBC09xxGZ6gcdrc6A"
+        },
+        "contentDetails": {
+            "videoId": "fdY7dt3ijgY",
+            "videoPublishedAt": "2019-02-02T21:28:12Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "ZN2_5xkgrdldFMmOF12-82Y3m5Y",
+        "id": "UExPWHc2STEwVlR2OURGWFJpZHVrTEMyaGdBQWttZXhXeC4yODlGNEE0NkRGMEEzMEQy",
+        "snippet": {
+            "publishedAt": "2020-07-02T17:35:27Z",
+            "channelId": "UCXZCJLdBC09xxGZ6gcdrc6A",
+            "title": "OpenAI Robotics Symposium 2019",
+            "description": "9:15 AM (0:46:41) Opening (Matthias Plappert, OpenAI)\n9:30 AM (0:57:22) Learning Dexterity (Wojciech Zaremba, OpenAI)\n10:15 AM Coffee Break & Demo\n10:45 AM (2:12:28) Learning from Play (Pierre Sermanet, Google Brain)\n11:30 AM (3:02:12) Doing for our robots what nature did for us (Leslie Kaelbling, MIT)\n12:15 PM Lunch Break & Demo\n1:30 PM (4:56:24) Treating People as Optimizers in Human-Robot Interaction (Anca Dragan, UC Berkeley)\n2:15 PM (5:48:10) Social-Emotional Intelligence in Human-Robot Interactions (Jin Joo Lee, MIT / Amazon)\n3:00 PM Coffee Break & Demo\n3:30 PM (7:05:50) What Should Be Learned? (Chris Atkeson, CMU)\n4:15 PM (7:47:57) Robots that adapt like natural animals (Jeff Clune, Uber AI / University of Wyoming)\n\nLearn more: https://openai.com/blog/symposium-2019/",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/WRsxoVB8Yng/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/WRsxoVB8Yng/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/WRsxoVB8Yng/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/WRsxoVB8Yng/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/WRsxoVB8Yng/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OpenAI",
+            "playlistId": "PLOXw6I10VTv9DFXRidukLC2hgAAkmexWx",
+            "position": 6,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "WRsxoVB8Yng"
+            },
+            "videoOwnerChannelTitle": "OpenAI",
+            "videoOwnerChannelId": "UCXZCJLdBC09xxGZ6gcdrc6A"
+        },
+        "contentDetails": {
+            "videoId": "WRsxoVB8Yng",
+            "videoPublishedAt": "2019-04-28T01:41:23Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "V3mVvZdTm3pPocGfuxFYmPvAPLA",
+        "id": "UExPWHc2STEwVlR2OURGWFJpZHVrTEMyaGdBQWttZXhXeC41NkI0NEY2RDEwNTU3Q0M2",
+        "snippet": {
+            "publishedAt": "2020-07-02T17:35:27Z",
+            "channelId": "UCXZCJLdBC09xxGZ6gcdrc6A",
+            "title": "OpenAI Scholars Demo Day 2019",
+            "description": "Our class of eight scholars (out of 550 applicants) brings together collective expertise in literature, philosophy, cell biology, statistics, economics, quantum physics, and business innovation. Our scholars are applying these specializations to current AI research and documenting their progress as they continue to grow as machine learning practitioners.\n\nLearn about OpenAI's Scholars program and hear what our 2019 Scholars have accomplished in the past 3 months, from intrinsic motivation for robotic tasks to fine-tuning GPT-2 for question answering.\n\nRead more: https://openai.com/blog/openai-scholars-class-of-19/",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/4u218xVkjmQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/4u218xVkjmQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/4u218xVkjmQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/4u218xVkjmQ/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/4u218xVkjmQ/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OpenAI",
+            "playlistId": "PLOXw6I10VTv9DFXRidukLC2hgAAkmexWx",
+            "position": 7,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "4u218xVkjmQ"
+            },
+            "videoOwnerChannelTitle": "OpenAI",
+            "videoOwnerChannelId": "UCXZCJLdBC09xxGZ6gcdrc6A"
+        },
+        "contentDetails": {
+            "videoId": "4u218xVkjmQ",
+            "videoPublishedAt": "2019-05-15T03:35:12Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "ziuwv96Z8TqpkNyq5FcUdMSko8Q",
+        "id": "UExPWHc2STEwVlR2OURGWFJpZHVrTEMyaGdBQWttZXhXeC4yQUE2Q0JEMTk4NTM3RTZC",
+        "snippet": {
+            "publishedAt": "2020-07-09T17:43:16Z",
+            "channelId": "UCXZCJLdBC09xxGZ6gcdrc6A",
+            "title": "Universal Adversarial Perturbations and Language M\u2026 | Pamela Mishkin | OpenAI Scholars Demo Day 2020",
+            "description": "Learn more: https://openai.com/blog/openai-scholars-2020-final-projects#pamela",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/7wqmXo0Jqa4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/7wqmXo0Jqa4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/7wqmXo0Jqa4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/7wqmXo0Jqa4/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/7wqmXo0Jqa4/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OpenAI",
+            "playlistId": "PLOXw6I10VTv9DFXRidukLC2hgAAkmexWx",
+            "position": 8,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "7wqmXo0Jqa4"
+            },
+            "videoOwnerChannelTitle": "OpenAI",
+            "videoOwnerChannelId": "UCXZCJLdBC09xxGZ6gcdrc6A"
+        },
+        "contentDetails": {
+            "videoId": "7wqmXo0Jqa4",
+            "videoPublishedAt": "2020-07-09T17:43:16Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "08ykyKnNt_YkcpVd_JAGxiF1q1M",
+        "id": "UExPWHc2STEwVlR2OURGWFJpZHVrTEMyaGdBQWttZXhXeC5DMkU4NTY1QUFGQTYwMDE3",
+        "snippet": {
+            "publishedAt": "2021-05-06T18:48:40Z",
+            "channelId": "UCXZCJLdBC09xxGZ6gcdrc6A",
+            "title": "Introduction by Sam Altman | OpenAI Scholars Demo Day 2021",
+            "description": "Learn more: https://openai.com/blog/openai-scholars-2021-final-projects",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/8gFwd9lHPBs/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/8gFwd9lHPBs/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/8gFwd9lHPBs/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/8gFwd9lHPBs/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/8gFwd9lHPBs/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OpenAI",
+            "playlistId": "PLOXw6I10VTv9DFXRidukLC2hgAAkmexWx",
+            "position": 9,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "8gFwd9lHPBs"
+            },
+            "videoOwnerChannelTitle": "OpenAI",
+            "videoOwnerChannelId": "UCXZCJLdBC09xxGZ6gcdrc6A"
+        },
+        "contentDetails": {
+            "videoId": "8gFwd9lHPBs",
+            "videoPublishedAt": "2021-05-10T20:52:31Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "p8VPy0ZEYr2UYI9d-hEJS8vsqF4",
+        "id": "UExPWHc2STEwVlR2OURGWFJpZHVrTEMyaGdBQWttZXhXeC5ENDU4Q0M4RDExNzM1Mjcy",
+        "snippet": {
+            "publishedAt": "2020-07-02T17:35:27Z",
+            "channelId": "UCXZCJLdBC09xxGZ6gcdrc6A",
+            "title": "Investigating Model Based RL for Continuous Control | Alex Botev | 2018 Summer Intern Open House",
+            "description": "Alex Botev's presentation about his work during his summer internship at OpenAI. Recorded at the OpenAI 2018 Summer Intern Open House on August 16, 2018.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/1_sYif82CtY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/1_sYif82CtY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/1_sYif82CtY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/1_sYif82CtY/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/1_sYif82CtY/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OpenAI",
+            "playlistId": "PLOXw6I10VTv9DFXRidukLC2hgAAkmexWx",
+            "position": 10,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "1_sYif82CtY"
+            },
+            "videoOwnerChannelTitle": "OpenAI",
+            "videoOwnerChannelId": "UCXZCJLdBC09xxGZ6gcdrc6A"
+        },
+        "contentDetails": {
+            "videoId": "1_sYif82CtY",
+            "videoPublishedAt": "2018-09-11T00:45:44Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "HY0ohzyrgctgbZlJXicmmnsBPpY",
+        "id": "UExPWHc2STEwVlR2OURGWFJpZHVrTEMyaGdBQWttZXhXeC4yMDhBMkNBNjRDMjQxQTg1",
+        "snippet": {
+            "publishedAt": "2020-07-09T17:40:39Z",
+            "channelId": "UCXZCJLdBC09xxGZ6gcdrc6A",
+            "title": "Introductions by Sam Altman & Greg Brockman | OpenAI Scholars Demo Day 2020",
+            "description": "Learn more: https://openai.com/blog/openai-scholars-2020-final-projects",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/JZOHW-eYBtQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/JZOHW-eYBtQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/JZOHW-eYBtQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/JZOHW-eYBtQ/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/JZOHW-eYBtQ/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OpenAI",
+            "playlistId": "PLOXw6I10VTv9DFXRidukLC2hgAAkmexWx",
+            "position": 11,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "JZOHW-eYBtQ"
+            },
+            "videoOwnerChannelTitle": "OpenAI",
+            "videoOwnerChannelId": "UCXZCJLdBC09xxGZ6gcdrc6A"
+        },
+        "contentDetails": {
+            "videoId": "JZOHW-eYBtQ",
+            "videoPublishedAt": "2021-05-06T18:39:13Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "FuDTFq0DQ8BUe7oZ9UJrB5ZQwu0",
+        "id": "UExPWHc2STEwVlR2OURGWFJpZHVrTEMyaGdBQWttZXhXeC4zRDBDOEZDOUM0MDY5NEEz",
+        "snippet": {
+            "publishedAt": "2021-05-07T00:00:04Z",
+            "channelId": "UCXZCJLdBC09xxGZ6gcdrc6A",
+            "title": "Characterizing Test Time Compute on Graph Structur\u2026 | Kudzo Ahegbebu | OpenAI Scholars Demo Day 2021",
+            "description": "Learn more: https://openai.com/blog/openai-scholars-2021-final-projects#kudzo",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/8iz5v3Q0g9I/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/8iz5v3Q0g9I/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/8iz5v3Q0g9I/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/8iz5v3Q0g9I/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/8iz5v3Q0g9I/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OpenAI",
+            "playlistId": "PLOXw6I10VTv9DFXRidukLC2hgAAkmexWx",
+            "position": 12,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "8iz5v3Q0g9I"
+            },
+            "videoOwnerChannelTitle": "OpenAI",
+            "videoOwnerChannelId": "UCXZCJLdBC09xxGZ6gcdrc6A"
+        },
+        "contentDetails": {
+            "videoId": "8iz5v3Q0g9I",
+            "videoPublishedAt": "2021-05-10T20:52:32Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "t6Zdx7O4C1iJrBbvbi44sd3PLBY",
+        "id": "UExPWHc2STEwVlR2OURGWFJpZHVrTEMyaGdBQWttZXhXeC5GM0Q3M0MzMzY5NTJFNTdE",
+        "snippet": {
+            "publishedAt": "2020-07-09T17:41:46Z",
+            "channelId": "UCXZCJLdBC09xxGZ6gcdrc6A",
+            "title": "Looking For Grammar In All The Right Places | Alethea Power | OpenAI Scholars Demo Day 2020",
+            "description": "Learn more: https://openai.com/blog/openai-scholars-2020-final-projects#alethea",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/6gilgehNTNw/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/6gilgehNTNw/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/6gilgehNTNw/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/6gilgehNTNw/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/6gilgehNTNw/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OpenAI",
+            "playlistId": "PLOXw6I10VTv9DFXRidukLC2hgAAkmexWx",
+            "position": 13,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "6gilgehNTNw"
+            },
+            "videoOwnerChannelTitle": "OpenAI",
+            "videoOwnerChannelId": "UCXZCJLdBC09xxGZ6gcdrc6A"
+        },
+        "contentDetails": {
+            "videoId": "6gilgehNTNw",
+            "videoPublishedAt": "2020-07-09T17:41:46Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "sWMMAYeUB-iAcUAf4Iw6cVc1cmw",
+        "id": "UExPWHc2STEwVlR2OURGWFJpZHVrTEMyaGdBQWttZXhXeC41MjE1MkI0OTQ2QzJGNzNG",
+        "snippet": {
+            "publishedAt": "2020-07-02T17:35:27Z",
+            "channelId": "UCXZCJLdBC09xxGZ6gcdrc6A",
+            "title": "Using Semantic Trees In Place of Sentences | Munashe Shumba | OpenAI Scholars Demo Day 2018",
+            "description": "Munashe Shumba talks about Using Semantic Trees In Place of Sentences on OpenAI Scholars Demo Day on September 20, 2018. \n\nLearn more: https://openai.com/blog/openai-scholars-2018-final-projects#munashe",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/dFpQ830Y5qo/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/dFpQ830Y5qo/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/dFpQ830Y5qo/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/dFpQ830Y5qo/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/dFpQ830Y5qo/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OpenAI",
+            "playlistId": "PLOXw6I10VTv9DFXRidukLC2hgAAkmexWx",
+            "position": 14,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "dFpQ830Y5qo"
+            },
+            "videoOwnerChannelTitle": "OpenAI",
+            "videoOwnerChannelId": "UCXZCJLdBC09xxGZ6gcdrc6A"
+        },
+        "contentDetails": {
+            "videoId": "dFpQ830Y5qo",
+            "videoPublishedAt": "2018-10-06T02:27:23Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "ZVS2tamDVeiJ6kn89Brwn-vGi1A",
+        "id": "UExPWHc2STEwVlR2OURGWFJpZHVrTEMyaGdBQWttZXhXeC5BRjJDODk5REM0NjkzMUIy",
+        "snippet": {
+            "publishedAt": "2021-05-07T00:08:12Z",
+            "channelId": "UCXZCJLdBC09xxGZ6gcdrc6A",
+            "title": "Feedback Loops in Opinion Modeling | Danielle Ensign | OpenAI Scholars Demo Day 2021",
+            "description": "Learn more: https://openai.com/blog/openai-scholars-2021-final-projects#danielle",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/wZ6PqNp-W_w/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/wZ6PqNp-W_w/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/wZ6PqNp-W_w/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/wZ6PqNp-W_w/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/wZ6PqNp-W_w/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OpenAI",
+            "playlistId": "PLOXw6I10VTv9DFXRidukLC2hgAAkmexWx",
+            "position": 15,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "wZ6PqNp-W_w"
+            },
+            "videoOwnerChannelTitle": "OpenAI",
+            "videoOwnerChannelId": "UCXZCJLdBC09xxGZ6gcdrc6A"
+        },
+        "contentDetails": {
+            "videoId": "wZ6PqNp-W_w",
+            "videoPublishedAt": "2021-05-10T20:52:32Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "r7XxjAeEhsidiS-wCX14ad0E2z8",
+        "id": "UExPWHc2STEwVlR2OURGWFJpZHVrTEMyaGdBQWttZXhXeC45RTgxNDRBMzUwRjQ0MDhC",
+        "snippet": {
+            "publishedAt": "2020-07-02T17:35:27Z",
+            "channelId": "UCXZCJLdBC09xxGZ6gcdrc6A",
+            "title": "Generative Modelling | Sadhika Malladi | 2018 Summer Intern Open House",
+            "description": "Sadhika Malladi's presentation about her work during her summer internship at OpenAI. Recorded at the OpenAI 2018 Summer Intern Open House on August 16, 2018.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/0cQrZxMFDEM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/0cQrZxMFDEM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/0cQrZxMFDEM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/0cQrZxMFDEM/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/0cQrZxMFDEM/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OpenAI",
+            "playlistId": "PLOXw6I10VTv9DFXRidukLC2hgAAkmexWx",
+            "position": 16,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "0cQrZxMFDEM"
+            },
+            "videoOwnerChannelTitle": "OpenAI",
+            "videoOwnerChannelId": "UCXZCJLdBC09xxGZ6gcdrc6A"
+        },
+        "contentDetails": {
+            "videoId": "0cQrZxMFDEM",
+            "videoPublishedAt": "2018-09-11T01:37:13Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "oPQ3jFWbivR0m8HiK2tMy6AL_bQ",
+        "id": "UExPWHc2STEwVlR2OURGWFJpZHVrTEMyaGdBQWttZXhXeC5DQ0MyQ0Y4Mzg0M0VGOEYw",
+        "snippet": {
+            "publishedAt": "2020-07-09T17:43:05Z",
+            "channelId": "UCXZCJLdBC09xxGZ6gcdrc6A",
+            "title": "Towards Epileptic Seizure Prediction with Deep Network | Kata Slama | OpenAI Scholars Demo Day 2020",
+            "description": "Learn more: https://openai.com/blog/openai-scholars-2020-final-projects#kata",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/AT2XkqJAZns/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/AT2XkqJAZns/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/AT2XkqJAZns/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/AT2XkqJAZns/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/AT2XkqJAZns/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OpenAI",
+            "playlistId": "PLOXw6I10VTv9DFXRidukLC2hgAAkmexWx",
+            "position": 17,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "AT2XkqJAZns"
+            },
+            "videoOwnerChannelTitle": "OpenAI",
+            "videoOwnerChannelId": "UCXZCJLdBC09xxGZ6gcdrc6A"
+        },
+        "contentDetails": {
+            "videoId": "AT2XkqJAZns",
+            "videoPublishedAt": "2020-07-09T17:43:05Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "bGrd8tLBEYavfWv8YViy4KDwBPo",
+        "id": "UExPWHc2STEwVlR2OURGWFJpZHVrTEMyaGdBQWttZXhXeC4yMUQyQTQzMjRDNzMyQTMy",
+        "snippet": {
+            "publishedAt": "2020-07-02T17:35:27Z",
+            "channelId": "UCXZCJLdBC09xxGZ6gcdrc6A",
+            "title": "Robust Vision-Based State Estimation | Hsiao-Yu 'Fish' Tung | 2018 Summer Intern Open House",
+            "description": "Hsiao-Yu 'Fish' Tung's presentation about her work during her summer internship at OpenAI. Recorded at the OpenAI 2018 Summer Intern Open House on August 16, 2018.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/hyZ1sRfRbgM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/hyZ1sRfRbgM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/hyZ1sRfRbgM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/hyZ1sRfRbgM/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/hyZ1sRfRbgM/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OpenAI",
+            "playlistId": "PLOXw6I10VTv9DFXRidukLC2hgAAkmexWx",
+            "position": 18,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "hyZ1sRfRbgM"
+            },
+            "videoOwnerChannelTitle": "OpenAI",
+            "videoOwnerChannelId": "UCXZCJLdBC09xxGZ6gcdrc6A"
+        },
+        "contentDetails": {
+            "videoId": "hyZ1sRfRbgM",
+            "videoPublishedAt": "2018-09-11T01:41:16Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "L4teviIYCZjkHP6nSgTnNgVVlLk",
+        "id": "UExPWHc2STEwVlR2OURGWFJpZHVrTEMyaGdBQWttZXhXeC5DQUNERDQ2NkIzRUQxNTY1",
+        "snippet": {
+            "publishedAt": "2020-07-02T17:35:27Z",
+            "channelId": "UCXZCJLdBC09xxGZ6gcdrc6A",
+            "title": "Generating Emotional Landscapes | Hannah Davis | OpenAI Scholars Demo Day 2018",
+            "description": "Hannah Davis talks about Generating Emotional Landscapes on OpenAI Scholars Demo Day on September 20, 2018. \n\nLearn more: https://openai.com/blog/openai-scholars-2018-final-projects#hannah",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/I61BnRBtUeQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/I61BnRBtUeQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/I61BnRBtUeQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/I61BnRBtUeQ/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/I61BnRBtUeQ/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OpenAI",
+            "playlistId": "PLOXw6I10VTv9DFXRidukLC2hgAAkmexWx",
+            "position": 19,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "I61BnRBtUeQ"
+            },
+            "videoOwnerChannelTitle": "OpenAI",
+            "videoOwnerChannelId": "UCXZCJLdBC09xxGZ6gcdrc6A"
+        },
+        "contentDetails": {
+            "videoId": "I61BnRBtUeQ",
+            "videoPublishedAt": "2020-07-02T18:31:17Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "GlYqOX09Xhs6V7LkpOGtd-xJFI8",
+        "id": "UExPWHc2STEwVlR2OURGWFJpZHVrTEMyaGdBQWttZXhXeC5DNzE1RjZEMUZCMjA0RDBB",
+        "snippet": {
+            "publishedAt": "2020-07-09T17:42:26Z",
+            "channelId": "UCXZCJLdBC09xxGZ6gcdrc6A",
+            "title": "Social learning in independent multi-agent reinfor\u2026 | Kamal N\u2019dousse | OpenAI Scholars Demo Day 2020",
+            "description": "Learn more: https://openai.com/blog/openai-scholars-2020-final-projects#kamal",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Qy9J5519s68/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Qy9J5519s68/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Qy9J5519s68/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/Qy9J5519s68/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/Qy9J5519s68/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OpenAI",
+            "playlistId": "PLOXw6I10VTv9DFXRidukLC2hgAAkmexWx",
+            "position": 20,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "Qy9J5519s68"
+            },
+            "videoOwnerChannelTitle": "OpenAI",
+            "videoOwnerChannelId": "UCXZCJLdBC09xxGZ6gcdrc6A"
+        },
+        "contentDetails": {
+            "videoId": "Qy9J5519s68",
+            "videoPublishedAt": "2020-07-09T17:42:26Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "8XPr_weu2mHqOnMkkVMXmtNfiKA",
+        "id": "UExPWHc2STEwVlR2OURGWFJpZHVrTEMyaGdBQWttZXhXeC41QTY1Q0UxMTVCODczNThE",
+        "snippet": {
+            "publishedAt": "2020-07-02T17:35:27Z",
+            "channelId": "UCXZCJLdBC09xxGZ6gcdrc6A",
+            "title": "A pathway to more efficient generative models | Will Grathwohl | 2018 Summer Intern Open House",
+            "description": "Will Grathwohl's presentation about his work during his summer internship at OpenAI. Recorded at the OpenAI 2018 Summer Intern Open House on August 16, 2018.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/zG7KqhtQzQo/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/zG7KqhtQzQo/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/zG7KqhtQzQo/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/zG7KqhtQzQo/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/zG7KqhtQzQo/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OpenAI",
+            "playlistId": "PLOXw6I10VTv9DFXRidukLC2hgAAkmexWx",
+            "position": 21,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "zG7KqhtQzQo"
+            },
+            "videoOwnerChannelTitle": "OpenAI",
+            "videoOwnerChannelId": "UCXZCJLdBC09xxGZ6gcdrc6A"
+        },
+        "contentDetails": {
+            "videoId": "zG7KqhtQzQo",
+            "videoPublishedAt": "2018-09-11T01:41:10Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "7Sn4os0e_LV5t_2JmAP2iP1_dOo",
+        "id": "UExPWHc2STEwVlR2OURGWFJpZHVrTEMyaGdBQWttZXhXeC45NzUwQkI1M0UxNThBMkU0",
+        "snippet": {
+            "publishedAt": "2020-07-09T17:42:13Z",
+            "channelId": "UCXZCJLdBC09xxGZ6gcdrc6A",
+            "title": "Long term credit assignment with temporal reward transp\u2026 | Cathy Yeh | OpenAI Scholars Demo Day 2020",
+            "description": "Learn more: https://openai.com/blog/openai-scholars-2020-final-projects#cathy",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/jjmTmYMsET0/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/jjmTmYMsET0/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/jjmTmYMsET0/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/jjmTmYMsET0/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/jjmTmYMsET0/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OpenAI",
+            "playlistId": "PLOXw6I10VTv9DFXRidukLC2hgAAkmexWx",
+            "position": 22,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "jjmTmYMsET0"
+            },
+            "videoOwnerChannelTitle": "OpenAI",
+            "videoOwnerChannelId": "UCXZCJLdBC09xxGZ6gcdrc6A"
+        },
+        "contentDetails": {
+            "videoId": "jjmTmYMsET0",
+            "videoPublishedAt": "2020-07-09T17:42:12Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "llMj66Ueyqk8KOx8Pf5vKXDvXjM",
+        "id": "UExPWHc2STEwVlR2OURGWFJpZHVrTEMyaGdBQWttZXhXeC40QTA3NTU2RkM1QzlCMzYx",
+        "snippet": {
+            "publishedAt": "2021-05-07T00:04:24Z",
+            "channelId": "UCXZCJLdBC09xxGZ6gcdrc6A",
+            "title": "Learning Multiple Modes of Behavior in a Continuous\u2026 | Tyna Eloundou | OpenAI Scholars Demo Day 2021",
+            "description": "Learn more: https://openai.com/blog/openai-scholars-2021-final-projects#tyna",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/ewLoQrVCKew/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/ewLoQrVCKew/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/ewLoQrVCKew/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/ewLoQrVCKew/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/ewLoQrVCKew/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OpenAI",
+            "playlistId": "PLOXw6I10VTv9DFXRidukLC2hgAAkmexWx",
+            "position": 23,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "ewLoQrVCKew"
+            },
+            "videoOwnerChannelTitle": "OpenAI",
+            "videoOwnerChannelId": "UCXZCJLdBC09xxGZ6gcdrc6A"
+        },
+        "contentDetails": {
+            "videoId": "ewLoQrVCKew",
+            "videoPublishedAt": "2021-05-10T20:52:31Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "YOUGQIexWeAh1DeJgIcLqVsF2p0",
+        "id": "UExPWHc2STEwVlR2OURGWFJpZHVrTEMyaGdBQWttZXhXeC5EQUE1NTFDRjcwMDg0NEMz",
+        "snippet": {
+            "publishedAt": "2020-07-02T17:35:27Z",
+            "channelId": "UCXZCJLdBC09xxGZ6gcdrc6A",
+            "title": "Learning Dexterity | Alex Ray | 2018 Summer Intern Open House",
+            "description": "Alex Ray gives an overview of the work being done on the OpenAI Robotics team. Recorded at the OpenAI 2018 Summer Intern Open House on August 16, 2018.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/lmyU2VF_MGo/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/lmyU2VF_MGo/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/lmyU2VF_MGo/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/lmyU2VF_MGo/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/lmyU2VF_MGo/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OpenAI",
+            "playlistId": "PLOXw6I10VTv9DFXRidukLC2hgAAkmexWx",
+            "position": 24,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "lmyU2VF_MGo"
+            },
+            "videoOwnerChannelTitle": "OpenAI",
+            "videoOwnerChannelId": "UCXZCJLdBC09xxGZ6gcdrc6A"
+        },
+        "contentDetails": {
+            "videoId": "lmyU2VF_MGo",
+            "videoPublishedAt": "2018-09-11T01:41:12Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "inzYZ0jPoSyHiuMFTYVuaiOFvNY",
+        "id": "UExPWHc2STEwVlR2OURGWFJpZHVrTEMyaGdBQWttZXhXeC45RjNFMDhGQ0Q2RkFCQTc1",
+        "snippet": {
+            "publishedAt": "2021-05-07T00:02:58Z",
+            "channelId": "UCXZCJLdBC09xxGZ6gcdrc6A",
+            "title": "Studying Scaling Laws for Transformer Architecture \u2026 | Shola Oyedele | OpenAI Scholars Demo Day 2021",
+            "description": "Learn more: https://openai.com/blog/openai-scholars-2021-final-projects#shola",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/HYijvkoXgPE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/HYijvkoXgPE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/HYijvkoXgPE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/HYijvkoXgPE/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/HYijvkoXgPE/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OpenAI",
+            "playlistId": "PLOXw6I10VTv9DFXRidukLC2hgAAkmexWx",
+            "position": 25,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "HYijvkoXgPE"
+            },
+            "videoOwnerChannelTitle": "OpenAI",
+            "videoOwnerChannelId": "UCXZCJLdBC09xxGZ6gcdrc6A"
+        },
+        "contentDetails": {
+            "videoId": "HYijvkoXgPE",
+            "videoPublishedAt": "2021-05-10T20:52:32Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "ohQpu7KM_IG0J3hJv51p4klqlYk",
+        "id": "UExPWHc2STEwVlR2OURGWFJpZHVrTEMyaGdBQWttZXhXeC45NDk1REZENzhEMzU5MDQz",
+        "snippet": {
+            "publishedAt": "2020-07-02T17:35:27Z",
+            "channelId": "UCXZCJLdBC09xxGZ6gcdrc6A",
+            "title": "Music Generation | Christine Payne | OpenAI Scholars Demo Day 2018",
+            "description": "Christine Payne talks about Music Generation on OpenAI Scholars Demo Day on September 20, 2018. \n\nLearn more: https://openai.com/blog/openai-scholars-2018-final-projects#christine",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/-tPX_glPDWo/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/-tPX_glPDWo/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/-tPX_glPDWo/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/-tPX_glPDWo/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/-tPX_glPDWo/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OpenAI",
+            "playlistId": "PLOXw6I10VTv9DFXRidukLC2hgAAkmexWx",
+            "position": 26,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "-tPX_glPDWo"
+            },
+            "videoOwnerChannelTitle": "OpenAI",
+            "videoOwnerChannelId": "UCXZCJLdBC09xxGZ6gcdrc6A"
+        },
+        "contentDetails": {
+            "videoId": "-tPX_glPDWo",
+            "videoPublishedAt": "2020-07-02T18:29:47Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "Wn6HVCZGroknmsFUhiEh6ljnTi8",
+        "id": "UExPWHc2STEwVlR2OURGWFJpZHVrTEMyaGdBQWttZXhXeC4zRjM0MkVCRTg0MkYyQTM0",
+        "snippet": {
+            "publishedAt": "2020-07-09T17:41:59Z",
+            "channelId": "UCXZCJLdBC09xxGZ6gcdrc6A",
+            "title": "Semantic Parsing English to GraphQL | Andre Carerra | OpenAI Scholars Demo Day 2020",
+            "description": "Learn more: https://openai.com/blog/openai-scholars-2020-final-projects#andre",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/liMJS5DrnlQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/liMJS5DrnlQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/liMJS5DrnlQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/liMJS5DrnlQ/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/liMJS5DrnlQ/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OpenAI",
+            "playlistId": "PLOXw6I10VTv9DFXRidukLC2hgAAkmexWx",
+            "position": 27,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "liMJS5DrnlQ"
+            },
+            "videoOwnerChannelTitle": "OpenAI",
+            "videoOwnerChannelId": "UCXZCJLdBC09xxGZ6gcdrc6A"
+        },
+        "contentDetails": {
+            "videoId": "liMJS5DrnlQ",
+            "videoPublishedAt": "2020-07-09T17:41:58Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "UxF_u3ZeZu7G4VYBH6njkfQJnvM",
+        "id": "UExPWHc2STEwVlR2OURGWFJpZHVrTEMyaGdBQWttZXhXeC41QUZGQTY5OTE4QTREQUU4",
+        "snippet": {
+            "publishedAt": "2021-05-06T23:58:35Z",
+            "channelId": "UCXZCJLdBC09xxGZ6gcdrc6A",
+            "title": "Large Scale Reward Modeling | Jonathan Ward | OpenAI Scholars Demo Day 2021",
+            "description": "Learn more: https://openai.com/blog/openai-scholars-2021-final-projects#jonathan",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/EUZxw2VZUBA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/EUZxw2VZUBA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/EUZxw2VZUBA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/EUZxw2VZUBA/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/EUZxw2VZUBA/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OpenAI",
+            "playlistId": "PLOXw6I10VTv9DFXRidukLC2hgAAkmexWx",
+            "position": 28,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "EUZxw2VZUBA"
+            },
+            "videoOwnerChannelTitle": "OpenAI",
+            "videoOwnerChannelId": "UCXZCJLdBC09xxGZ6gcdrc6A"
+        },
+        "contentDetails": {
+            "videoId": "EUZxw2VZUBA",
+            "videoPublishedAt": "2021-05-10T20:52:31Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "FFFEErZiFiugFzy_kZq5ZIluxco",
+        "id": "UExPWHc2STEwVlR2OURGWFJpZHVrTEMyaGdBQWttZXhXeC42MTI4Njc2QjM1RjU1MjlG",
+        "snippet": {
+            "publishedAt": "2021-05-07T00:01:32Z",
+            "channelId": "UCXZCJLdBC09xxGZ6gcdrc6A",
+            "title": "Words to Bytes: Exploring Language Tokenizations | Sam Gbafa | OpenAI Scholars Demo Day 2021",
+            "description": "Learn more: https://openai.com/blog/openai-scholars-2021-final-projects#sam",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/TsFLqbiim4M/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/TsFLqbiim4M/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/TsFLqbiim4M/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/TsFLqbiim4M/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/TsFLqbiim4M/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OpenAI",
+            "playlistId": "PLOXw6I10VTv9DFXRidukLC2hgAAkmexWx",
+            "position": 29,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "TsFLqbiim4M"
+            },
+            "videoOwnerChannelTitle": "OpenAI",
+            "videoOwnerChannelId": "UCXZCJLdBC09xxGZ6gcdrc6A"
+        },
+        "contentDetails": {
+            "videoId": "TsFLqbiim4M",
+            "videoPublishedAt": "2021-05-10T20:52:31Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "iiOAUYwJTcTBxWGGzqEFu2RDzWk",
+        "id": "UExPWHc2STEwVlR2OURGWFJpZHVrTEMyaGdBQWttZXhXeC43MTI1NDIwOTMwQjIxMzNG",
+        "snippet": {
+            "publishedAt": "2020-07-09T17:42:45Z",
+            "channelId": "UCXZCJLdBC09xxGZ6gcdrc6A",
+            "title": "Quantifying Interpretability of Models Trained on Coi\u2026 | Jorge Orbay | OpenAI Scholars Demo Day 2020",
+            "description": "Learn more: https://openai.com/blog/openai-scholars-2020-final-projects#jorge",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/aEe_dTUfK4c/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/aEe_dTUfK4c/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/aEe_dTUfK4c/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/aEe_dTUfK4c/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/aEe_dTUfK4c/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OpenAI",
+            "playlistId": "PLOXw6I10VTv9DFXRidukLC2hgAAkmexWx",
+            "position": 30,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "aEe_dTUfK4c"
+            },
+            "videoOwnerChannelTitle": "OpenAI",
+            "videoOwnerChannelId": "UCXZCJLdBC09xxGZ6gcdrc6A"
+        },
+        "contentDetails": {
+            "videoId": "aEe_dTUfK4c",
+            "videoPublishedAt": "2020-07-09T17:42:45Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "yTpX_Uir0m1MRnVGptKe6j4Z1kE",
+        "id": "UExPWHc2STEwVlR2OURGWFJpZHVrTEMyaGdBQWttZXhXeC44Mjc5REFBRUE2MTdFRDU0",
+        "snippet": {
+            "publishedAt": "2021-05-06T23:56:11Z",
+            "channelId": "UCXZCJLdBC09xxGZ6gcdrc6A",
+            "title": "Scaling Laws for Language Transfer Learning | Christina Kim | OpenAI Scholars Demo Day 2021",
+            "description": "Learn more: https://openai.com/blog/openai-scholars-2021-final-projects#christina",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/lpe5Gwuqa-k/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/lpe5Gwuqa-k/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/lpe5Gwuqa-k/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/lpe5Gwuqa-k/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/lpe5Gwuqa-k/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OpenAI",
+            "playlistId": "PLOXw6I10VTv9DFXRidukLC2hgAAkmexWx",
+            "position": 31,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "lpe5Gwuqa-k"
+            },
+            "videoOwnerChannelTitle": "OpenAI",
+            "videoOwnerChannelId": "UCXZCJLdBC09xxGZ6gcdrc6A"
+        },
+        "contentDetails": {
+            "videoId": "lpe5Gwuqa-k",
+            "videoPublishedAt": "2021-05-10T20:52:31Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "4yh4QWeSGhVtaai5wW5VfGUppAM",
+        "id": "UExPWHc2STEwVlR2OURGWFJpZHVrTEMyaGdBQWttZXhXeC4wOTA3OTZBNzVEMTUzOTMy",
+        "snippet": {
+            "publishedAt": "2020-07-02T17:35:27Z",
+            "channelId": "UCXZCJLdBC09xxGZ6gcdrc6A",
+            "title": "Deephypebot | Nadja Rhodes | OpenAI Scholars Demo Day 2018",
+            "description": "Nadja Rhodes talks about Deephypebot on OpenAI Scholars Demo Day on September 20, 2018. \n\nLearn more: https://openai.com/blog/openai-scholars-2018-final-projects#nadja",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/7dsNeABAbz8/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/7dsNeABAbz8/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/7dsNeABAbz8/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/7dsNeABAbz8/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/7dsNeABAbz8/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OpenAI",
+            "playlistId": "PLOXw6I10VTv9DFXRidukLC2hgAAkmexWx",
+            "position": 32,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "7dsNeABAbz8"
+            },
+            "videoOwnerChannelTitle": "OpenAI",
+            "videoOwnerChannelId": "UCXZCJLdBC09xxGZ6gcdrc6A"
+        },
+        "contentDetails": {
+            "videoId": "7dsNeABAbz8",
+            "videoPublishedAt": "2020-07-02T18:30:14Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "43AEDVqD_CJFsWR4Xs0b_f3HPyE",
+        "id": "UExPWHc2STEwVlR2OURGWFJpZHVrTEMyaGdBQWttZXhXeC5CMEQ2Mjk5NTc3NDZFRUNB",
+        "snippet": {
+            "publishedAt": "2021-05-07T00:00:58Z",
+            "channelId": "UCXZCJLdBC09xxGZ6gcdrc6A",
+            "title": "Breaking Contrastive Models with the SET Card Game | Legg Yeung | OpenAI Scholars Demo Day 2021",
+            "description": "Learn more: https://openai.com/blog/openai-scholars-2021-final-projects#legg",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/AKg0tzunYP0/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/AKg0tzunYP0/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/AKg0tzunYP0/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/AKg0tzunYP0/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/AKg0tzunYP0/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OpenAI",
+            "playlistId": "PLOXw6I10VTv9DFXRidukLC2hgAAkmexWx",
+            "position": 33,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "AKg0tzunYP0"
+            },
+            "videoOwnerChannelTitle": "OpenAI",
+            "videoOwnerChannelId": "UCXZCJLdBC09xxGZ6gcdrc6A"
+        },
+        "contentDetails": {
+            "videoId": "AKg0tzunYP0",
+            "videoPublishedAt": "2021-05-10T20:52:31Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "FhReRi0ImzPs4pDHddbomCF9iEc",
+        "id": "UExPWHc2STEwVlR2OURGWFJpZHVrTEMyaGdBQWttZXhXeC41MzJCQjBCNDIyRkJDN0VD",
+        "snippet": {
+            "publishedAt": "2020-07-02T17:35:27Z",
+            "channelId": "UCXZCJLdBC09xxGZ6gcdrc6A",
+            "title": "Art Composition Attributes + CycleGAN | Holly Grimm | OpenAI Scholars Demo Day 2018",
+            "description": "Holly Grimm talks about Art Composition Attributes + CycleGAN on OpenAI Scholars Demo Day on September 20, 2018. \n\nLearn more: https://openai.com/blog/openai-scholars-2018-final-projects#holly",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/KisG5I0DcpY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/KisG5I0DcpY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/KisG5I0DcpY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/KisG5I0DcpY/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/KisG5I0DcpY/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OpenAI",
+            "playlistId": "PLOXw6I10VTv9DFXRidukLC2hgAAkmexWx",
+            "position": 34,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "KisG5I0DcpY"
+            },
+            "videoOwnerChannelTitle": "OpenAI",
+            "videoOwnerChannelId": "UCXZCJLdBC09xxGZ6gcdrc6A"
+        },
+        "contentDetails": {
+            "videoId": "KisG5I0DcpY",
+            "videoPublishedAt": "2020-07-02T18:30:55Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "d40fLz0CwPFGURwco0zMpljz_So",
+        "id": "UExPWHc2STEwVlR2OURGWFJpZHVrTEMyaGdBQWttZXhXeC43NDhFRTgwOTRERTU4Rjg3",
+        "snippet": {
+            "publishedAt": "2021-05-06T23:57:40Z",
+            "channelId": "UCXZCJLdBC09xxGZ6gcdrc6A",
+            "title": "Contrastive Language Encoding | Ellie Kitanidis | OpenAI Scholars Demo Day 2021",
+            "description": "Learn more: https://openai.com/blog/openai-scholars-2021-final-projects#ellie",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/mVZE7wm1skw/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/mVZE7wm1skw/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/mVZE7wm1skw/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/mVZE7wm1skw/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/mVZE7wm1skw/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OpenAI",
+            "playlistId": "PLOXw6I10VTv9DFXRidukLC2hgAAkmexWx",
+            "position": 35,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "mVZE7wm1skw"
+            },
+            "videoOwnerChannelTitle": "OpenAI",
+            "videoOwnerChannelId": "UCXZCJLdBC09xxGZ6gcdrc6A"
+        },
+        "contentDetails": {
+            "videoId": "mVZE7wm1skw",
+            "videoPublishedAt": "2021-05-10T20:52:31Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "CedKDEgFQtofeO2OBUKMyWXCOJk",
+        "id": "UExPWHc2STEwVlR2OURGWFJpZHVrTEMyaGdBQWttZXhXeC4xMkVGQjNCMUM1N0RFNEUx",
+        "snippet": {
+            "publishedAt": "2020-07-02T17:35:27Z",
+            "channelId": "UCXZCJLdBC09xxGZ6gcdrc6A",
+            "title": "Physics Net | Ifu Aniemeka | OpenAI Scholars Demo Day 2018",
+            "description": "Ifu Aniemeka talks about Physics Net on OpenAI Scholars Demo Day on September 20, 2018. \n\nLearn more: https://openai.com/blog/openai-scholars-2018-final-projects#ifu",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/wSVwTszUrck/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/wSVwTszUrck/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/wSVwTszUrck/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/wSVwTszUrck/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/wSVwTszUrck/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OpenAI",
+            "playlistId": "PLOXw6I10VTv9DFXRidukLC2hgAAkmexWx",
+            "position": 36,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "wSVwTszUrck"
+            },
+            "videoOwnerChannelTitle": "OpenAI",
+            "videoOwnerChannelId": "UCXZCJLdBC09xxGZ6gcdrc6A"
+        },
+        "contentDetails": {
+            "videoId": "wSVwTszUrck",
+            "videoPublishedAt": "2020-07-02T18:30:33Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "xY0lcIvjjQyc6DTGaHrOoxT2Oqw",
+        "id": "UExPWHc2STEwVlR2OURGWFJpZHVrTEMyaGdBQWttZXhXeC4zQzFBN0RGNzNFREFCMjBE",
+        "snippet": {
+            "publishedAt": "2023-03-23T02:28:46Z",
+            "channelId": "UCXZCJLdBC09xxGZ6gcdrc6A",
+            "title": "OpenAI Day x Thrive",
+            "description": "Join the livestream of OpenAI x Thrive.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/5v2RgJbXdeY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/5v2RgJbXdeY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/5v2RgJbXdeY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/5v2RgJbXdeY/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/5v2RgJbXdeY/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OpenAI",
+            "playlistId": "PLOXw6I10VTv9DFXRidukLC2hgAAkmexWx",
+            "position": 37,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "5v2RgJbXdeY"
+            },
+            "videoOwnerChannelTitle": "OpenAI",
+            "videoOwnerChannelId": "UCXZCJLdBC09xxGZ6gcdrc6A"
+        },
+        "contentDetails": {
+            "videoId": "5v2RgJbXdeY",
+            "videoPublishedAt": "2023-03-23T02:28:44Z"
+        }
+    }
+]
