@@ -44,7 +44,7 @@ def get_playlist_detail(json_filename,if_detailed):
                 ordinal += 1
     return 0
 
-def catch_playlist_data(channel_id):
+def catch_channel_playlist_data(channel_id):
     api_service_name = "youtube"
     api_version = "v3"
 
@@ -61,8 +61,11 @@ def catch_playlist_data(channel_id):
     with open(f"./Saves/{channel_id}_snippet.json","w",encoding="utf-8") as f:
         json.dump(response,f,indent=4)
 
+def catch_single_playlist(playlist_id):
+    
+
 if __name__ == "__main__":
     # get_description("Disney Channel Animation_snippet.json")
     # catch_playlist_data(channel_id="UCsT0YIqwnpJCM-mx7-gSA4Q") #catch TS'channel
-    # catch_playlist_data(channel_id="UC2jIjRE_1uvHNpRH3BSwu9Q") #catch CUHK MBA Channel
+    catch_channel_playlist_data(channel_id="UC2jIjRE_1uvHNpRH3BSwu9Q") #catch CUHK MBA Channel
     get_playlist_detail(json_filename='UC2jIjRE_1uvHNpRH3BSwu9Q_snippet.json',if_detailed=1)
