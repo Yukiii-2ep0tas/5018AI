@@ -70,7 +70,6 @@ def catch_video_item_by_playlist(playlist_id):
             f"Comment Count :{video_comment_count} \n"
             f"Duration :{duration} \n" 
         )
-
     return 0
 
 
