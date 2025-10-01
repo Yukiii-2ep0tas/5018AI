@@ -111,4 +111,4 @@ if __name__ == "__main__":
     # catch_channel_playlist_data(channel_id="UC2jIjRE_1uvHNpRH3BSwu9Q") #catch CUHK MBA Channel
     # get_channel_playlist_detail(json_filename='UC2jIjRE_1uvHNpRH3BSwu9Q_snippet.json',if_detailed=1)
     # catch_single_playlist_detail(playlist_id="PLFEgnf4tmQe-thFfkU9EVKQoB-7r6aLXD") #catch peppa pig's playlist
-    catch_single_playlist_detail(playlist_id='PLOXw6I10VTv9DFXRidukLC2hgAAkmexWx')
+    # catch_single_playlist_detail(playlist_id='PLOXw6I10VTv9DFXRidukLC2hgAAkmexWx') #catch OpenAI's playlist
