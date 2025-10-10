@@ -1,7 +1,7 @@
 from google.cloud import language_v2
 import pandas as pd
 
-cred = ""
+cred = "./Cred/"
 
 client = language_v2.LanguageServiceClient()
 
