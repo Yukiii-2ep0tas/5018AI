@@ -8,4 +8,4 @@ def sentiment_detect(thetext):
     return(sentiment)
 
 def sentiment_detect_by_text(text_filepath):
-    
+    return 0
