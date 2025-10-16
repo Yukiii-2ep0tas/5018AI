@@ -1,5 +1,4 @@
-.DS_Store
-.localized
-./Cred/
+Cred/t_analysis_key.json
 Cred/API_Key.txt
 Cred/t_analysis_key.json
+.vscode/

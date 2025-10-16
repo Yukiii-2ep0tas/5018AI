@@ -30,19 +30,10 @@ def get_description(json_filename):#从保存的json文件中获取频道简介
         print(description)
     return description
 
-def get_playlist_detail(json_filename,if_detailed):
+def get_video_count(json_filename):
     with open(f"./Saves/{json_filename}") as f:
-        playlists = json.load(f)
-        playlist_amount = playlists['pageInfo']["totalResults"]
-        print(f"Total amount of playlists is :{playlist_amount}")
-        if if_detailed:
-            ordinal = 1
-            for item in playlists['items']:
-                create_date = re.match(r'^(.*?)T', item['snippet']['publishedAt']).group(1)
-                playlist_name = item['snippet']['title']
-                print(f'{ordinal}.Playlist Name is {playlist_name} and was created at {create_date}')
-                ordinal += 1
-    return 0
+        video_count = json.load(f)["items"][0]['statistics']['videoCount']
+        print(f"Total amount of videos in this channel is: {video_count}")
 
 def catch_channel_playlist_data(channel_id):
     api_service_name = "youtube"
@@ -106,9 +97,10 @@ def catch_single_playlist_detail(playlist_id):#输入指定的单个播放列表
 
 
 if __name__ == "__main__":
-    # get_description("Disney Channel Animation_snippet.json")
-    # catch_playlist_data(channel_id="UCsT0YIqwnpJCM-mx7-gSA4Q") #catch TS'channel
+    # get_description("Taylor Swift_snippet.json")
+    # get_video_count("Taylor Swift_snippet.json")
+    # catch_channel_playlist_data(channel_id="UCsT0YIqwnpJCM-mx7-gSA4Q") #catch TS'channel
     # catch_channel_playlist_data(channel_id="UC2jIjRE_1uvHNpRH3BSwu9Q") #catch CUHK MBA Channel
-    # get_channel_playlist_detail(json_filename='UC2jIjRE_1uvHNpRH3BSwu9Q_snippet.json',if_detailed=1)
+    get_channel_playlist_detail(json_filename='UCsT0YIqwnpJCM-mx7-gSA4Q_snippet.json',if_detailed=0)
     # catch_single_playlist_detail(playlist_id="PLFEgnf4tmQe-thFfkU9EVKQoB-7r6aLXD") #catch peppa pig's playlist
     # catch_single_playlist_detail(playlist_id='PLOXw6I10VTv9DFXRidukLC2hgAAkmexWx') #catch OpenAI's playlist

@@ -30,7 +30,8 @@ def catch_video_comments(video_id,comments_wanted):# 最大评论数量不能大
                 "author": top_comment.get("authorDisplayName"),
                 "text": top_comment.get("textDisplay"),
                 "publishedAt": top_comment.get("publishedAt"),
-                "likeCount": top_comment.get("likeCount")
+                "likeCount": top_comment.get("likeCount"),
+                "replyCount": response['items'][0]['snippet']['totalReplyCount']
             })
         
         next_page_token = response['nextPageToken'] #翻页token，翻不动了就停
@@ -38,7 +39,7 @@ def catch_video_comments(video_id,comments_wanted):# 最大评论数量不能大
             break
     
     with open('./Q4_comments.csv','w',encoding='utf-8') as f:
-        writer = csv.DictWriter(f, fieldnames=["author", "text", "publishedAt", "likeCount"])
+        writer = csv.DictWriter(f, fieldnames=["author", "text", "publishedAt", "likeCount", "replyCount"])
         writer.writeheader()
         writer.writerows(comments_list[:comments_wanted])
 
