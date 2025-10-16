@@ -2,3 +2,4 @@
 .localized
 ./Cred/
 Cred/API_Key.txt
+Cred/t_analysis_key.json
