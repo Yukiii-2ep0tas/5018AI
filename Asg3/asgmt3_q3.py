@@ -24,7 +24,7 @@ def batch_image_labeling(image_folder_path):
 
         # 调用识别函数
         response = image_label_detect(image_content)
-
+        print(response)
         # 提取数字索引，例如 img12.png → 12
         match = re.search(r'\d+', filename)
         index = int(match.group()) if match else None

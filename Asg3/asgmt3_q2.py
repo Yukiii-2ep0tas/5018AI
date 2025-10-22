@@ -14,6 +14,7 @@ q2_text = str(
 def detect_entities(text):
     document = lv2.Document(content=text, type_=lv2.Document.Type.PLAIN_TEXT)
     response = client.analyze_entities(document=document, encoding_type=lv2.EncodingType.UTF8)
+    print(response)
     data = []
     for entity in response.entities:
         entity_name = entity.name
