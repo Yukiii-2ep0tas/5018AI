@@ -37,7 +37,7 @@ df_entities = detect_entities(text=q2_text)
 df_ent_is_person = df_entities[df_entities['entity_type'] == 'PERSON']
 df_ent_high_prob = df_entities[df_entities['probability'] > 0.01]
 
-
+# print(df_entities.to_string())
 print(df_ent_is_person)
 # detect_entities(q2_text).to_csv('./asg3/Results/q2.csv',index=False)
 
