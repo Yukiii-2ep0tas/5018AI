@@ -1,0 +1,31 @@
+index,filename,results
+1,img1.png,{}
+2,img2.png,"{'People': 0.994, 'Smile': 0.992, 'Happiness': 0.968, 'Shoe': 0.967, 'Social group': 0.95, 'Youth': 0.95, 'Event': 0.933, 'Fun': 0.899, 'Dress': 0.89, 'Luggage & bags': 0.882}"
+3,img3.png,"{'White-collar worker': 0.874, 'Logo': 0.866}"
+4,img4.png,"{'High-rise building': 0.885, 'Condominium': 0.844}"
+5,img5.png,"{'Sleeve': 0.985, 'Shoulder': 0.981, 'Eyewear': 0.981, 'Happiness': 0.962, 'Smile': 0.962, 'Vision Care': 0.961, 'Neck': 0.956, 'Facial expression': 0.945, 'Black hair': 0.914, 'Glass': 0.809}"
+6,img6.png,"{'Smile': 0.983, 'Happiness': 0.98, 'Facial expression': 0.945, 'Youth': 0.931, 'Fun': 0.883}"
+7,img7.png,"{'Electronic device': 0.968, 'Display device': 0.951, 'Presentation': 0.943, 'Event': 0.928, 'Projection screen': 0.912, 'Furniture': 0.894, 'Technology': 0.89, 'Multimedia': 0.835, 'Suit': 0.823, 'Output device': 0.811}"
+8,img8.png,"{'Font': 0.895, 'Logo': 0.803}"
+9,img9.png,"{'Furniture': 0.977, 'Outerwear': 0.955, 'Chair': 0.939, 'Suit': 0.937, 'Conference hall': 0.906, 'Coat': 0.886, 'Electronic device': 0.886, 'Hall': 0.885, 'White-collar worker': 0.871, 'Meeting': 0.866}"
+10,img10.png,"{'Suit': 0.908, 'Formal wear': 0.895, 'Logo': 0.845, 'Banner': 0.817}"
+11,img11.png,"{'Coat': 0.895, 'Suit': 0.88, 'White-collar worker': 0.876, 'Suit trousers': 0.818, 'Job': 0.816, 'Award ceremony': 0.804}"
+12,img12.png,"{'White-collar worker': 0.902, 'Coat': 0.881, 'Smile': 0.877, 'Advertising': 0.873, 'Technology': 0.846, 'Logo': 0.821, 'Suit': 0.816, 'Dress shirt': 0.81}"
+13,img13.png,"{'White-collar worker': 0.908, 'Coat': 0.89, 'Suit': 0.863, 'Job': 0.841, 'Engineering': 0.809}"
+14,img14.png,"{'Suit': 0.935, 'Coat': 0.917, 'Formal wear': 0.912, 'White-collar worker': 0.908, 'Necktie': 0.881, 'Blazer': 0.861, 'Suit trousers': 0.855, 'Collaboration': 0.81}"
+15,img15.png,{}
+16,img16.png,"{'Outerwear': 0.955, 'Collar': 0.93, 'White-collar worker': 0.912, 'Coat': 0.911, 'Formal wear': 0.896, 'Necktie': 0.884, 'Suit': 0.863, 'Dress shirt': 0.855, 'Blazer': 0.813}"
+17,img17.png,"{'Hospital': 0.966, 'Operating theater': 0.965, 'Medical': 0.961, 'Health Care': 0.958, 'Medical procedure': 0.949, 'Medical equipment': 0.937, 'Health Professional': 0.936, 'Surgeon': 0.935, 'Scrubs': 0.876, 'Job': 0.867}"
+18,img18.png,"{'Outerwear': 0.955, 'Coat': 0.929, 'Suit': 0.911, 'Advertising': 0.901, 'Logo': 0.877, 'White-collar worker': 0.87, 'Job': 0.83}"
+19,img19.png,"{'Furniture': 0.984, 'Trousers': 0.958, 'Shoe': 0.954, 'Suit': 0.953, 'Formal wear': 0.952, 'Leg': 0.951, 'Blazer': 0.937, 'Coat': 0.933, 'Suit trousers': 0.916, 'Necktie': 0.915}"
+20,img20.png,"{'Suit': 0.947, 'Coat': 0.93, 'White-collar worker': 0.911, 'Formal wear': 0.906, 'Necktie': 0.881, 'Blazer': 0.875, 'Dress shirt': 0.858, 'Job': 0.832, 'Collaboration': 0.822, 'Official': 0.8}"
+21,img21.png,"{'Trousers': 0.958, 'Social group': 0.942, 'Formal wear': 0.92, 'Suit': 0.878, 'Coat': 0.874, 'Dress shoe': 0.84, 'White-collar worker': 0.839, 'Suit trousers': 0.831}"
+22,img22.png,"{'Furniture': 0.978, 'Food': 0.973, 'Table': 0.973, 'Tableware': 0.97, 'Shirt': 0.959, 'Crowd': 0.95, 'Event': 0.943, 'Interaction': 0.923, 'Dishware': 0.922, 'Jeans': 0.917}"
+23,img23.png,{}
+24,img24.png,"{'Chin': 0.989, 'Eyebrow': 0.986, 'Eyewear': 0.984, 'Forehead': 0.984, 'Skin': 0.98, 'Collar': 0.978, 'Vision Care': 0.971, 'Jaw': 0.963, 'Temple': 0.952, 'Facial expression': 0.945}"
+25,img25.png,"{'Winter': 0.852, 'Holiday': 0.818}"
+26,img26.png,"{'Event': 0.966, 'Scholar': 0.964, 'Academic dress': 0.961, 'Graduation ceremony': 0.919, 'Ceremony': 0.833}"
+27,img27.png,"{'Daytime': 0.981, 'Beauty': 0.951, 'Dusk': 0.939, 'Orange': 0.937, 'Afterglow': 0.913, 'Sunset': 0.9, 'Evening': 0.886, 'Morning': 0.849, 'Sunlight': 0.842, 'Sunrise': 0.81}"
+28,img28.png,"{'Hat': 0.985, 'Scholar': 0.98, 'Academic dress': 0.976, 'Event': 0.961, 'Headgear': 0.958, 'Outerwear': 0.956, 'Smile': 0.941, 'Graduation ceremony': 0.916, 'Student': 0.866, 'Ceremony': 0.815}"
+29,img29.png,"{'Urban design': 0.892, 'Commercial building': 0.818}"
+30,img30.png,{'Metal': 0.82}
