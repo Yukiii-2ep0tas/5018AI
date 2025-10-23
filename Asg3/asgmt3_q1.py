@@ -1,5 +1,6 @@
 from google.cloud import language_v2 as lv2
 import pandas as pd
+import time
 
 cred = "./Cred/t_analysis_key.json"
 
@@ -17,8 +18,9 @@ for comment in df_comments['comment']:
     sentiment_result = detect_single_line(str(comment))
     comment_sentiment = sentiment_result.score
     comment_stmt_magnitude = sentiment_result.magnitude
-    df_comments['sentiment'][index] = comment_sentiment
-    df_comments['magnitude'][index] = comment_stmt_magnitude
+    df_comments.loc[index,'sentiment'] = comment_sentiment
+    df_comments.loc[index,'magnitude'] = comment_stmt_magnitude
     index += 1
+    time.sleep(0.5)
 
 df_comments.to_csv('./asg3/Results/q1.csv',index=False)
